@@ -42,8 +42,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Solution URL here](https://github.com/abdurrahmang/qr-code-component)
-- Live Site URL: [Live site URL here](https://abdurrahmang.github.io/qr-code-component)
+- Solution URL: [Solution URL here](https://github.com/abdurrahmang/QRCodeComponent)
+- Live Site URL: [Live site URL here](https://abdurrahmang.github.io/QRCodeComponent)
 
 ## My process
 
